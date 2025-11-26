@@ -1,4 +1,4 @@
-package BehaviourableDesignPatterns.MomentoPattern;
+package BehaviourableDesignPatterns.MementoPattern;
 
 public class TextEditorMain {
     public static void main(String[] args) {

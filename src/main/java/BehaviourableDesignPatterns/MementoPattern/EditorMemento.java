@@ -1,4 +1,4 @@
-package BehaviourableDesignPatterns.MomentoPattern;
+package BehaviourableDesignPatterns.MementoPattern;
 
 //stores the internal state of the text editor
 public class EditorMemento {

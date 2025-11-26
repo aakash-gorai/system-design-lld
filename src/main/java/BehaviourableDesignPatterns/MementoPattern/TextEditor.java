@@ -1,4 +1,4 @@
-package BehaviourableDesignPatterns.MomentoPattern;
+package BehaviourableDesignPatterns.MementoPattern;
 /*
 A text editor where user can do undo changes, such as text edition or formatting.
 */
