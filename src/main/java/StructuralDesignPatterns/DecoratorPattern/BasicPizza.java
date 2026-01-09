@@ -1,4 +1,4 @@
-package StructuralDesignPatterns.DecoratorDesignPattern;
+package StructuralDesignPatterns.DecoratorPattern;
 
 public class BasicPizza implements Pizza {
     @Override

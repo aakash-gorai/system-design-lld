@@ -1,4 +1,4 @@
-package StructuralDesignPatterns.DecoratorDesignPattern;
+package StructuralDesignPatterns.DecoratorPattern;
 
 public class PizzaDecorator implements Pizza {
 

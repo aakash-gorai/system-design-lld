@@ -1,4 +1,4 @@
-package StructuralDesignPatterns.AdapterDesignPattern;
+package StructuralDesignPatterns.AdapterPattern;
 
 public class EmailNotificationService implements NotificationService {
     @Override

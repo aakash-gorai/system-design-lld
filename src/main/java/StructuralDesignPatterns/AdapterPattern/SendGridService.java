@@ -1,4 +1,4 @@
-package StructuralDesignPatterns.AdapterDesignPattern;
+package StructuralDesignPatterns.AdapterPattern;
 
 public class SendGridService {
     void sendEmail(String recipient, String title, String content) {

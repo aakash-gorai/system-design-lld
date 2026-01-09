@@ -1,4 +1,4 @@
-package StructuralDesignPatterns.AdapterDesignPattern;
+package StructuralDesignPatterns.AdapterPattern;
 
 public class SendGridAdapter implements NotificationService {
     private SendGridService sendGridService;

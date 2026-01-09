@@ -1,4 +1,4 @@
-package StructuralDesignPatterns.AdapterDesignPattern;
+package StructuralDesignPatterns.AdapterPattern;
 
 public class Client {
     public static void main(String[] args) {
